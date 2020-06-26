@@ -1,0 +1,2 @@
+bisogna modificare i maven settings.xml sul server jenkins con user e
+password per autenticarsi a Nexus sotto il tag <server>
